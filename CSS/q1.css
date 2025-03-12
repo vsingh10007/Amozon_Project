@@ -1,0 +1,32 @@
+#light{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(0, 0, 0);
+}
+
+#red{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #B81D13;
+    align-items: center;
+    display: flex;
+}
+
+#yelleo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:#EFB700;
+    align-content: center;
+    display: flex;
+}
+
+#green{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color:#008450;
+    align-content: center;
+    display: flex;
+}
